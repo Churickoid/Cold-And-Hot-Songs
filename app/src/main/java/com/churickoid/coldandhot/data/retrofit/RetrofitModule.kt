@@ -17,7 +17,7 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 object RetrofitModule {
 
-    private const val SPOTIFY_URL = "https://api.spotify.com/v1/"
+    private const val SPOTIFY_URL = "https://api.spotify.com/"
 
     private val httpLoggingInterceptor = HttpLoggingInterceptor().also {
         it.level = HttpLoggingInterceptor.Level.BODY
