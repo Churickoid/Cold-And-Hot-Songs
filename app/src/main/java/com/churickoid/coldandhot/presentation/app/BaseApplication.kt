@@ -1,7 +1,7 @@
-package com.example.coldandhot.presentation.app
+package com.churickoid.coldandhot.presentation.app
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class App:Application()
+class BaseApplication:Application()

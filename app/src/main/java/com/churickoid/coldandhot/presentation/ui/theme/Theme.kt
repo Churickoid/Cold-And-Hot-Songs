@@ -1,4 +1,4 @@
-package com.example.coldandhot.presentation.ui.theme
+package com.churickoid.coldandhot.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

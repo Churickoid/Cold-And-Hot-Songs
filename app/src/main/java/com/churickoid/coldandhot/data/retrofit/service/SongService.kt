@@ -1,4 +1,4 @@
-package com.example.coldandhot.data.retrofit.service
+package com.churickoid.coldandhot.data.retrofit.service
 
 import retrofit2.http.GET
 

@@ -1,4 +1,4 @@
-package com.example.coldandhot
+package com.churickoid.coldandhot
 
 import org.junit.Test
 

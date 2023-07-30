@@ -1,4 +1,4 @@
-package com.example.coldandhot.data.retrofit
+package com.churickoid.coldandhot.data.retrofit
 
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
@@ -17,7 +17,7 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 object RetrofitModule {
 
-    private const val SPOTIFY_URL = ""
+    private const val SPOTIFY_URL = "https://api.spotify.com/v1/"
 
     private val httpLoggingInterceptor = HttpLoggingInterceptor().also {
         it.level = HttpLoggingInterceptor.Level.BODY
