@@ -15,4 +15,10 @@ object ServiceModule {
     fun provideSongService(retrofit: Retrofit): SongService{
         return retrofit.create(SongService::class.java)
     }
+
+    @Provides
+    @Singleton
+    fun provideAccountService(retrofit: Retrofit): AccountService{
+        return retrofit.create(AccountService::class.java)
+    }
 }
