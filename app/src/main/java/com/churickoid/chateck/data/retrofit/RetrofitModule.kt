@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot.data.retrofit
+package com.churickoid.chateck.data.retrofit
 
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory

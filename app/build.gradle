@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.churickoid.coldandhot'
+    namespace 'com.churickoid.chateck'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.churickoid.coldandhot"
+        applicationId "com.churickoid.chateck"
         minSdk 24
         targetSdk 33
         versionCode 1

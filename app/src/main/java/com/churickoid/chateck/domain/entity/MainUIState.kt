@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot.domain.entity
+package com.churickoid.chateck.domain.entity
 
 data class MainUIState(
     val token: String,

@@ -1,9 +1,9 @@
-package com.churickoid.coldandhot.presentation
+package com.churickoid.chateck.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.churickoid.coldandhot.data.SongRepository
-import com.churickoid.coldandhot.domain.entity.MainUIState
+import com.churickoid.chateck.data.SongRepository
+import com.churickoid.chateck.domain.entity.MainUIState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

@@ -1,7 +1,7 @@
-package com.churickoid.coldandhot.data
+package com.churickoid.chateck.data
 
-import com.churickoid.coldandhot.data.retrofit.service.AccountService
-import com.churickoid.coldandhot.data.retrofit.service.SongService
+import com.churickoid.chateck.data.retrofit.service.AccountService
+import com.churickoid.chateck.data.retrofit.service.SongService
 import javax.inject.Inject
 import javax.inject.Singleton
 

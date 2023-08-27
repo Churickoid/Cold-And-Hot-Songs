@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot.presentation.app
+package com.churickoid.chateck.presentation.app
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot.data.retrofit.service
+package com.churickoid.chateck.data.retrofit.service
 
 import dagger.Module
 import dagger.Provides

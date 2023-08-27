@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot
+package com.churickoid.chateck
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot.presentation.ui.theme
+package com.churickoid.chateck.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

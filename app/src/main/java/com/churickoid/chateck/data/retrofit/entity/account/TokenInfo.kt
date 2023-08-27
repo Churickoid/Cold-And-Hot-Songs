@@ -1,4 +1,4 @@
-package com.churickoid.coldandhot.data.retrofit.entity.account
+package com.churickoid.chateck.data.retrofit.entity.account
 
 data class TokenInfo(
     val accessToken: String,
